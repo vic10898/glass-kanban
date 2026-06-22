@@ -125,7 +125,7 @@ def create_report():
         ("Параметр", "Значение"),
         ("GitHub-репозиторий", "https://github.com/viktorpovarkov/glass-kanban"),
         ("Ссылка на деплой (Vercel/Render)", "https://glass-kanban.vercel.app"),
-        ("Стек технологий", "Frontend: React 18, Next.js 14, TypeScript\nBackend: Next.js API Routes, JWT Auth\nDatabase & ORM: Prisma ORM, SQLite/PostgreSQL\nStyling: Vanilla CSS Modules, Lucide Icons"),
+        ("Стек технологий", "Frontend: React 18, Next.js 14, TypeScript\nBackend: Next.js API Routes, JWT Auth\nDatabase & ORM: Prisma ORM, SQLite/PostgreSQL\nStyling: CSS Modules (чистый CSS), Lucide Icons"),
         ("Тестовые данные для входа (Login / Password)", "Логин (Email): demo@example.com\nПароль: password123")
     ]
     
