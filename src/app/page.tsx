@@ -52,31 +52,31 @@ export default function AuthPage() {
           <span>Glass Kanban</span>
         </div>
         <h1 style={styles.heroTitle}>
-          Визуализируйте свои задачи. <br />
-          <span style={styles.accentText}>Увеличивайте продуктивность.</span>
+          Управление задачами. <br />
+          <span style={styles.accentText}>Просто и удобно.</span>
         </h1>
         <p style={styles.heroText}>
-          Простой, элегантный и отзывчивый интерфейс канбан-доски для организации ваших проектов, 
-          совместной работы и легкого отслеживания прогресса.
+          Канбан-доска для организации учебных и личных проектов. 
+          Помогает отслеживать статус задач и не забывать о дедлайнах.
         </p>
 
         <div style={styles.features}>
           <div style={styles.featureItem}>
             <div style={styles.featureBullet}>✦</div>
             <div>
-              <strong>Интуитивный Drag-and-Drop:</strong> Перетаскивайте карточки задач между колонками одним движением.
+              <strong>Drag-and-Drop:</strong> Удобное перетаскивание карточек между колонками.
             </div>
           </div>
           <div style={styles.featureItem}>
             <div style={styles.featureBullet}>✦</div>
             <div>
-              <strong>Детальные карточки:</strong> Задавайте приоритеты, сроки, описания и общайтесь в комментариях.
+              <strong>Настройка задач:</strong> Приоритеты, сроки выполнения, описания и комментарии.
             </div>
           </div>
           <div style={styles.featureItem}>
             <div style={styles.featureBullet}>✦</div>
             <div>
-              <strong>Премиум интерфейс:</strong> Современный стек, темная тема и глассморфизм для комфортной работы.
+              <strong>Современный дизайн:</strong> Темная тема и эффект матового стекла (Glassmorphism).
             </div>
           </div>
         </div>

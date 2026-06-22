@@ -697,7 +697,7 @@ export default function BoardPage() {
                 onChange={(e) => setEditedCardTitle(e.target.value)}
                 onBlur={handleUpdateCardDetails}
               />
-              <span style={{ fontSize: '11px', color: 'var(--text-muted)' }}>
+              <span style={{ display: 'block', fontSize: '11px', color: 'var(--text-muted)' }}>
                 в колонке "{board.lists.find(l => l.id === activeCard.listId)?.title}"
               </span>
             </div>
