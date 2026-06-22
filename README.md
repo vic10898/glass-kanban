@@ -1,6 +1,6 @@
 # Glass Kanban — Управление проектами и задачами
 
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/placeholder-id/maintainability)](https://codeclimate.com/github/practical-tutorials/project-based-learning)
+[![Maintainability](https://qlty.sh/gh/vic10898/projects/glass-kanban/maintainability.svg)](https://qlty.sh/gh/vic10898/projects/glass-kanban)
 
 Современное веб-приложение для организации рабочих процессов и отслеживания задач в стиле Kanban-доски. Проект разработан на стеке Next.js и TypeScript с использованием красивого полупрозрачного дизайна в стиле Glassmorphism и темной темы. Приложение позволяет группировать задачи по колонкам, перетаскивать их с помощью drag-and-drop, детально настраивать карточки (срок, приоритет, описание) и вести обсуждения в комментариях.
 
